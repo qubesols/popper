@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/popper/static/css/main.e2dd0147.css",
-    "main.js": "/popper/static/js/main.b7e71706.js",
+    "main.css": "/popper/static/css/main.155e5f3a.css",
+    "main.js": "/popper/static/js/main.b07f30d7.js",
     "static/js/787.1cd6d771.chunk.js": "/popper/static/js/787.1cd6d771.chunk.js",
     "static/media/Itinerary creation 1.png": "/popper/static/media/Itinerary creation 1.9ac13f5d3d7baf0613d1.png",
     "static/media/Rectangle 1.png": "/popper/static/media/Rectangle 1.b44f4e5baa73e94dedd9.png",
     "index.html": "/popper/index.html",
-    "main.e2dd0147.css.map": "/popper/static/css/main.e2dd0147.css.map",
-    "main.b7e71706.js.map": "/popper/static/js/main.b7e71706.js.map",
+    "main.155e5f3a.css.map": "/popper/static/css/main.155e5f3a.css.map",
+    "main.b07f30d7.js.map": "/popper/static/js/main.b07f30d7.js.map",
     "787.1cd6d771.chunk.js.map": "/popper/static/js/787.1cd6d771.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2dd0147.css",
-    "static/js/main.b7e71706.js"
+    "static/css/main.155e5f3a.css",
+    "static/js/main.b07f30d7.js"
   ]
 }
