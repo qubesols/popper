@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 const Options = () => {
   return (
-    <div className="container">
+    <div className="container opt-con">
       <div className="options">
         <div className="xbtn">
           <Link to="/home">
